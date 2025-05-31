@@ -1,0 +1,204 @@
+[16:29:36] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[16:29:37] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:29:37] [main/INFO]: Loading 68 mods:
+	- advancednetherite 2.1.6-1.21
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- biomesoplenty 21.0.0.18
+	- cicada 0.13.0+1.21-1.21.1
+	   \-- org_yaml_snakeyaml 2.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- explorerscompass 1.21-2.2.5-fabric
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- glitchcore 2.0.0.3
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- jei 19.21.1.304
+	- minecraft 1.21
+	- naturescompass 1.21-2.2.6-fabric
+	- plasmovoice 2.1.4
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- sound_physics_remastered 1.21.1-1.4.10
+	- spellbound_weapons_mr 4.1.0c
+	- terrablender 4.0.0.2
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- yungsapi 1.21.1-Fabric-5.1.5
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[16:29:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:29:37] [main/INFO]: Compatibility level set to JAVA_21
+[16:29:38] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[16:29:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:29:50] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[16:29:50] [main/INFO]: Reflections took 72 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:50] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:51] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 1 values
+[16:29:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:29:51] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/Try-it/servidor_minecraft/config/betterfortresses/fabric-1_21
+[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[16:29:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[16:29:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:51] [main/INFO]: Creating directory for additional Better Strongholds configuration at /workspaces/Try-it/servidor_minecraft/config/betterstrongholds/fabric-1_21
+[16:29:52] [Cicada thread 0/INFO]: [cicada] Meow
+[16:29:53] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[16:29:53] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[16:29:53] [main/ERROR]: No data fixer registered for anomaly
+[16:29:53] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16:29:53] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[16:29:53] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[16:29:53] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[16:29:53] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:53] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[16:29:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:29:54] [main/INFO]: Found new data pack advancednetherite, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack betterdungeons, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack betterfortresses, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack betterjungletemples, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack bettermineshafts, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack betteroceanmonuments, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack betterstrongholds, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack explorerscompass, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack fabric, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack spellbound_weapons_mr, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack terrablender, loading it automatically
+[16:29:54] [main/INFO]: Found new data pack yungsapi, loading it automatically
+[16:29:55] [main/INFO]: No existing world data, creating new world
+[16:29:57] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
+[16:29:58] [main/INFO]: Loaded 1655 recipes
+[16:29:59] [main/INFO]: Loaded 1794 advancements
+[16:30:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16:30:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16:30:01] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 42.68 ms
+[16:30:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:30:01] [Server thread/INFO]: Loading properties
+[16:30:01] [Server thread/INFO]: Default game type: SURVIVAL
+[16:30:01] [Server thread/INFO]: Generating keypair
+[16:30:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:30:01] [Server thread/INFO]: Using epoll channel type
+[16:30:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:30:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:30:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:30:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:30:01] [Server thread/INFO]: Preparing level "world"
+[16:30:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[16:30:44] [Server thread/INFO]: Time elapsed: 16595 ms
+[16:30:44] [Server thread/INFO]: Done (43.238s)! For help, type "help"
+[16:30:45] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[16:31:12] [Server thread/INFO]: Akukis[/10.243.156.190:55106] logged in with entity id 30 at (-8.5, 87.0, -0.5)
+[16:31:12] [Server thread/INFO]: Akukis joined the game
+[16:31:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:31:27] [Server thread/INFO]: op Akukis<--[HERE]
+[16:31:36] [Server thread/INFO]: Made Akukis a server operator
+[16:31:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[16:32:25] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[16:33:12] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[16:33:13] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[16:33:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
