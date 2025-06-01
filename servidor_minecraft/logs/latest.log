@@ -187,3 +187,6 @@
 [20:34:50] [Server thread/INFO]: Villager class_1646['Villager'/185, l='ServerLevel[world]', x=186.75, y=63.00, z=-343.84] died, message: 'Villager was slain by Zombie'
 [20:34:57] [Server thread/INFO]: Villager class_1646['Villager'/186, l='ServerLevel[world]', x=186.13, y=63.00, z=-343.30] died, message: 'Villager was slain by Zombie Villager'
 [20:35:00] [Server thread/INFO]: Villager class_1646['Shepherd'/187, l='ServerLevel[world]', x=186.13, y=63.00, z=-343.83] died, message: 'Shepherd was slain by Zombie Villager'
+[20:51:05] [Server thread/INFO]: cuycito[/10.243.54.93:51159] logged in with entity id 6591 at (4.5, 104.0, 0.5)
+[20:51:05] [Server thread/INFO]: cuycito joined the game
+[20:51:27] [Server thread/INFO]: cuycito fell from a high place
