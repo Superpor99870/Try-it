@@ -15,11 +15,14 @@
     "criteria": {
       "tundra": "2025-06-01 21:27:55 +0000",
       "spider_nest": "2025-06-01 21:26:20 +0000",
+      "orchard": "2025-06-01 22:42:57 +0000",
       "overgrown_greens": "2025-06-01 22:32:37 +0000",
       "seasonal_forest": "2025-06-01 21:31:01 +0000",
       "cold_desert": "2025-06-01 21:21:27 +0000",
+      "lavender_field": "2025-06-01 22:43:45 +0000",
       "rocky_shrubland": "2025-06-01 22:32:22 +0000",
       "coniferous_forest": "2025-06-01 20:51:06 +0000",
+      "redwood_forest": "2025-06-01 22:40:42 +0000",
       "grassland": "2025-06-01 22:14:30 +0000"
     },
     "done": false
@@ -659,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-01 22:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-01 22:09:25 +0000"
@@ -887,6 +896,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-06-01 22:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-01 21:16:19 +0000"
@@ -950,6 +965,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-01 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-01 22:38:18 +0000"
     },
     "done": true
   },
@@ -1136,6 +1157,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-01 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-01 22:38:18 +0000"
     },
     "done": true
   },
@@ -1328,7 +1355,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-01 21:31:35 +0000",
-      "minecraft:river": "2025-06-01 21:15:55 +0000"
+      "minecraft:river": "2025-06-01 21:15:55 +0000",
+      "minecraft:plains": "2025-06-01 22:43:47 +0000"
     },
     "done": false
   },
