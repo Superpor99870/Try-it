@@ -160,3 +160,10 @@
 [03:23:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [03:23:50] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [03:29:56] [Server thread/INFO]: Akukis was slain by Zombie
+[03:32:05] [Server thread/INFO]: Akukis lost connection: Disconnected
+[03:32:05] [Server thread/INFO]: Akukis left the game
+[03:34:23] [Server thread/INFO]: Akukis[/10.243.156.190:63285] logged in with entity id 3064 at (176.11893096332705, 90.0, -421.5624312045475)
+[03:34:23] [Server thread/INFO]: Akukis joined the game
+[03:35:00] [Server thread/INFO]: Akukis was shot by Skeleton
+[03:38:15] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[03:38:23] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
