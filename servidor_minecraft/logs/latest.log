@@ -215,3 +215,29 @@
 [21:27:25] [Server thread/INFO]: Villager class_1646['Villager'/13818, l='ServerLevel[world]', x=7.48, y=65.00, z=190.38] died, message: 'Villager froze to death'
 [21:37:21] [Server thread/INFO]: cuycito has made the advancement [Not Today, Thank You]
 [21:38:01] [Server thread/INFO]: cuycito was shot by Skeleton
+[21:44:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=14}
+[21:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-15, y=29, z=14}
+[21:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-15, y=29, z=14}
+[21:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-15, y=29, z=13}
+[21:44:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-13, y=29, z=-1}
+[21:44:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-13, y=29, z=-1}
+[21:44:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-13, y=29, z=-1}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-2}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-2}
+[21:44:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=29, z=-1}
+[21:44:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-12, y=30, z=-12}
+[21:44:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-13, y=30, z=-12}
+[21:44:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=29, z=26} class_2338{x=-14, y=29, z=-14}
+[21:46:30] [Server thread/INFO]: cuycito was slain by Zombie
+[21:46:39] [Server thread/INFO]: cuycito fell from a high place
+[21:46:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7, y=86, z=0}
+[21:46:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-8, y=86, z=0}
+[21:46:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-8, y=86, z=0}
+[21:50:23] [Server thread/INFO]: cuycito was shot by Skeleton
+[21:53:52] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:54:14] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
