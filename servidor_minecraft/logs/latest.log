@@ -1,6 +1,6 @@
-[16:29:36] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[16:29:37] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:29:37] [main/INFO]: Loading 68 mods:
+[03:10:35] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[03:10:36] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:10:37] [main/INFO]: Loading 68 mods:
 	- advancednetherite 2.1.6-1.21
 	- betterdungeons 1.21.1-Fabric-5.1.4
 	   \-- org_reflections_reflections 0.10.2
@@ -89,161 +89,69 @@
 	- yungsapi 1.21.1-Fabric-5.1.5
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[16:29:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:29:37] [main/INFO]: Compatibility level set to JAVA_21
-[16:29:38] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[16:29:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:29:50] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[16:29:50] [main/INFO]: Reflections took 72 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:50] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:51] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 1 values
-[16:29:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[16:29:51] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/Try-it/servidor_minecraft/config/betterfortresses/fabric-1_21
-[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[16:29:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[16:29:51] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[16:29:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:51] [main/INFO]: Creating directory for additional Better Strongholds configuration at /workspaces/Try-it/servidor_minecraft/config/betterstrongholds/fabric-1_21
-[16:29:52] [Cicada thread 0/INFO]: [cicada] Meow
-[16:29:53] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[16:29:53] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[16:29:53] [main/ERROR]: No data fixer registered for anomaly
-[16:29:53] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[16:29:53] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[16:29:53] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[16:29:53] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[16:29:53] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[16:29:53] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:53] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
-[16:29:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:29:54] [main/INFO]: Found new data pack advancednetherite, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack betterdungeons, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack betterfortresses, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack betterjungletemples, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack bettermineshafts, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack betteroceanmonuments, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack betterstrongholds, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack explorerscompass, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack fabric, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack naturescompass, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack spellbound_weapons_mr, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack terrablender, loading it automatically
-[16:29:54] [main/INFO]: Found new data pack yungsapi, loading it automatically
-[16:29:55] [main/INFO]: No existing world data, creating new world
-[16:29:57] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
-[16:29:58] [main/INFO]: Loaded 1655 recipes
-[16:29:59] [main/INFO]: Loaded 1794 advancements
-[16:30:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[16:30:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[16:30:01] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 42.68 ms
-[16:30:01] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:30:01] [Server thread/INFO]: Loading properties
-[16:30:01] [Server thread/INFO]: Default game type: SURVIVAL
-[16:30:01] [Server thread/INFO]: Generating keypair
-[16:30:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:30:01] [Server thread/INFO]: Using epoll channel type
-[16:30:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:30:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:30:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:30:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:30:01] [Server thread/INFO]: Preparing level "world"
-[16:30:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[16:30:44] [Server thread/INFO]: Time elapsed: 16595 ms
-[16:30:44] [Server thread/INFO]: Done (43.238s)! For help, type "help"
-[16:30:45] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[16:31:12] [Server thread/INFO]: Akukis[/10.243.156.190:55106] logged in with entity id 30 at (-8.5, 87.0, -0.5)
-[16:31:12] [Server thread/INFO]: Akukis joined the game
-[16:31:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:31:27] [Server thread/INFO]: op Akukis<--[HERE]
-[16:31:36] [Server thread/INFO]: Made Akukis a server operator
-[16:31:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[16:32:25] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[16:33:12] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[16:33:13] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[16:33:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[16:45:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3, y=64, z=-389} class_2338{x=3, y=63, z=-388}
-[16:48:15] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[16:48:41] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[16:49:27] [Server thread/INFO]: [Akukis: Gamerule keepInventory is now set to: true]
-[16:50:19] [Server thread/INFO]: Akukis has made the advancement [Monster Hunter]
-[16:51:45] [Server thread/INFO]: Akukis has made the advancement [Stone Age]
-[16:52:05] [Server thread/INFO]: Akukis has made the advancement [Getting an Upgrade]
-[16:53:18] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[16:53:38] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[16:54:02] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[16:54:33] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:03:48] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:04:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:04:24] [Server thread/INFO]: Akukis was slain by Enderman
-[17:04:27] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:04:44] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:07:08] [Server thread/INFO]: Akukis was slain by Zombie
-[17:07:11] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:07:51] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:09:31] [Server thread/INFO]: [Akukis: Gave 21 [Coal] to Akukis]
-[17:12:34] [Server thread/INFO]: Akukis has made the advancement [Acquire Hardware]
-[17:12:59] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:13:16] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:13:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:13:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:13:27] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:13:32] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:13:55] [Server thread/INFO]: Akukis has made the advancement [Isn't It Iron Pick]
-[17:14:10] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:14:44] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:16:04] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:16:25] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:18:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:18:23] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:19:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:19:20] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:19:49] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[17:19:56] [Server thread/INFO]: Akukis has made the advancement [What a Deal!]
-[17:35:33] [Server thread/INFO]: [Akukis: Gave 2 [Chest] to Akukis]
-[17:38:32] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:38:41] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:39:07] [Server thread/INFO]: Akukis has made the advancement [A Seedy Place]
-[17:41:26] [Server thread/INFO]: Akukis has made the advancement [Sweet Dreams]
-[17:48:04] [Server thread/INFO]: [Akukis: Gave 64 [Torch] to Akukis]
-[17:49:42] [Server thread/INFO]: Akukis has made the advancement [Diamonds!]
+[03:10:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:10:38] [main/INFO]: Compatibility level set to JAVA_21
+[03:10:41] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[03:10:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:11:01] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[03:11:01] [main/INFO]: Reflections took 120 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:01] [main/INFO]: Reflections took 18 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:01] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 1 values
+[03:11:01] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[03:11:01] [main/INFO]: Reflections took 10 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:01] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:02] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 2 values
+[03:11:02] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[03:11:02] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 1 values
+[03:11:02] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[03:11:02] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:02] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:05] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[03:11:05] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[03:11:05] [main/ERROR]: No data fixer registered for anomaly
+[03:11:05] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
+[03:11:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:11:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:11:06] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03:11:06] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03:11:06] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03:11:06] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03:11:06] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03:11:06] [main/INFO]: Reflections took 21 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:06] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 1 keys and 3 values
+[03:11:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:11:13] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
+[03:11:14] [main/INFO]: Loaded 1655 recipes
+[03:11:15] [main/INFO]: Loaded 1794 advancements
+[03:11:17] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03:11:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03:11:18] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 85.98 ms
+[03:11:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:11:18] [Server thread/INFO]: Loading properties
+[03:11:18] [Server thread/INFO]: Default game type: SURVIVAL
+[03:11:18] [Server thread/INFO]: Generating keypair
+[03:11:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:11:18] [Server thread/INFO]: Using epoll channel type
+[03:11:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:11:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:11:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:11:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:11:19] [Server thread/INFO]: Preparing level "world"
+[03:11:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:11:46] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[03:11:47] [Server thread/INFO]: Time elapsed: 2979 ms
+[03:11:47] [Server thread/INFO]: Done (28.134s)! For help, type "help"
+[03:11:48] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[03:11:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@2091b073[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[03:12:03] [Server thread/INFO]: Akukis[/10.243.156.190:63056] logged in with entity id 44 at (190.30000001192093, -44.0, -434.78357808800575)
+[03:12:03] [Server thread/INFO]: Akukis joined the game
+[03:13:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@496b0f58[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[03:14:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@752287e7[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[03:15:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@6850ec60[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[03:16:51] [Server thread/INFO]: Akukis lost connection: Disconnected
+[03:16:51] [Server thread/INFO]: Akukis left the game
