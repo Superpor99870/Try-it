@@ -155,3 +155,8 @@
 [03:15:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@6850ec60[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
 [03:16:51] [Server thread/INFO]: Akukis lost connection: Disconnected
 [03:16:51] [Server thread/INFO]: Akukis left the game
+[03:23:10] [Server thread/INFO]: Akukis[/10.243.156.190:63138] logged in with entity id 1023 at (188.03202388725938, -41.0, -437.8931020085442)
+[03:23:10] [Server thread/INFO]: Akukis joined the game
+[03:23:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[03:23:50] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[03:29:56] [Server thread/INFO]: Akukis was slain by Zombie
