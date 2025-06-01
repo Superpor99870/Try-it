@@ -200,3 +200,14 @@
 [21:02:11] [Server thread/INFO]: cuycito has made the advancement [Monster Hunter]
 [21:05:47] [Server thread/INFO]: cuycito lost connection: Disconnected
 [21:05:47] [Server thread/INFO]: cuycito left the game
+[21:14:17] [Server thread/INFO]: cuycito[/10.243.54.93:52379] logged in with entity id 13633 at (47.528953690031074, 85.0, 15.300000011920929)
+[21:14:17] [Server thread/INFO]: cuycito joined the game
+[21:15:54] [Server thread/INFO]: Villager class_1646['Villager'/13791, l='ServerLevel[world]', x=89.30, y=71.00, z=173.70] died, message: 'Villager was slain by Zombie'
+[21:16:06] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:16:11] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[21:16:43] [Server thread/INFO]: cuycito was slain by Iron Golem
+[21:16:47] [Server thread/INFO]: Akukis was slain by Iron Golem
+[21:16:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:18:18] [Server thread/INFO]: cuycito has made the advancement [Acquire Hardware]
+[21:18:32] [Server thread/INFO]: cuycito has made the advancement [Sweet Dreams]
+[21:20:37] [Server thread/INFO]: Villager class_1646['Villager'/13790, l='ServerLevel[world]', x=99.51, y=72.00, z=167.30] died, message: 'Villager was slain by Zombie'
