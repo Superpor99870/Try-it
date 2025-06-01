@@ -69,6 +69,7 @@
       "chicken": "2025-05-31 16:43:24 +0000",
       "rotten_flesh": "2025-05-31 16:50:25 +0000",
       "suspicious_stew": "2025-05-31 17:33:41 +0000",
+      "cookie": "2025-06-01 03:56:26 +0000",
       "potato": "2025-05-31 17:39:24 +0000",
       "cooked_beef": "2025-05-31 17:29:34 +0000",
       "poisonous_potato": "2025-05-31 17:39:19 +0000",
@@ -1605,6 +1606,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-31 17:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-01 04:06:31 +0000"
     },
     "done": true
   },
