@@ -8,17 +8,18 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-05-31 17:48:35 +0000",
+      "lavender_field": "2025-06-01 22:43:43 +0000",
+      "shrubland": "2025-05-31 16:48:21 +0000",
+      "rocky_shrubland": "2025-05-31 16:46:43 +0000",
+      "redwood_forest": "2025-05-31 16:44:42 +0000",
+      "grassland": "2025-05-31 16:46:50 +0000",
       "glowing_grotto": "2025-05-31 16:54:19 +0000",
       "orchard": "2025-06-01 22:43:05 +0000",
       "overgrown_greens": "2025-05-31 16:44:43 +0000",
       "seasonal_forest": "2025-06-01 04:10:24 +0000",
-      "lavender_field": "2025-06-01 22:43:43 +0000",
-      "shrubland": "2025-05-31 16:48:21 +0000",
       "highland": "2025-05-31 16:32:00 +0000",
-      "rocky_shrubland": "2025-05-31 16:46:43 +0000",
-      "coniferous_forest": "2025-05-31 16:31:13 +0000",
-      "redwood_forest": "2025-05-31 16:44:42 +0000",
-      "grassland": "2025-05-31 16:46:50 +0000"
+      "rainforest": "2025-06-01 23:01:35 +0000",
+      "coniferous_forest": "2025-05-31 16:31:13 +0000"
     },
     "done": false
   },
@@ -68,16 +69,17 @@
     "criteria": {
       "cooked_porkchop": "2025-05-31 17:22:14 +0000",
       "mutton": "2025-05-31 16:44:23 +0000",
-      "apple": "2025-05-31 17:33:10 +0000",
       "chicken": "2025-05-31 16:43:24 +0000",
+      "bread": "2025-06-01 22:56:48 +0000",
       "rotten_flesh": "2025-05-31 16:50:25 +0000",
       "suspicious_stew": "2025-05-31 17:33:41 +0000",
       "cookie": "2025-06-01 03:56:26 +0000",
       "cooked_mutton": "2025-06-01 04:25:21 +0000",
-      "potato": "2025-05-31 17:39:24 +0000",
       "cooked_beef": "2025-05-31 17:29:34 +0000",
-      "poisonous_potato": "2025-05-31 17:39:19 +0000",
-      "tropical_fish": "2025-05-31 16:58:35 +0000"
+      "tropical_fish": "2025-05-31 16:58:35 +0000",
+      "apple": "2025-05-31 17:33:10 +0000",
+      "potato": "2025-05-31 17:39:24 +0000",
+      "poisonous_potato": "2025-05-31 17:39:19 +0000"
     },
     "done": false
   },
@@ -259,7 +261,9 @@
     "criteria": {
       "minecraft:dark_forest": "2025-05-31 16:48:26 +0000",
       "minecraft:forest": "2025-05-31 16:58:38 +0000",
+      "minecraft:sparse_jungle": "2025-06-01 22:47:25 +0000",
       "minecraft:jungle": "2025-05-31 16:53:27 +0000",
+      "minecraft:cherry_grove": "2025-06-01 22:46:19 +0000",
       "minecraft:river": "2025-05-31 16:45:26 +0000",
       "minecraft:birch_forest": "2025-05-31 16:53:31 +0000",
       "minecraft:lush_caves": "2025-05-31 16:55:28 +0000",
@@ -2158,6 +2162,240 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-01 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-01 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/blowgun": {
+    "criteria": {
+      "1": "2025-06-01 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-01 22:48:41 +0000"
     },
     "done": true
   },
