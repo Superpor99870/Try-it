@@ -435,6 +435,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-31 17:06:32 +0000",
+      "minecraft:enderman": "2025-06-01 22:26:14 +0000",
       "minecraft:spider": "2025-05-31 17:28:30 +0000",
       "minecraft:zombie": "2025-05-31 16:50:19 +0000",
       "minecraft:creeper": "2025-05-31 17:24:01 +0000"
@@ -1992,6 +1993,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-06-01 20:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-01 22:28:11 +0000"
     },
     "done": true
   },

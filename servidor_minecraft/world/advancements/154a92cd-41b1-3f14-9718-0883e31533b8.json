@@ -15,8 +15,10 @@
     "criteria": {
       "tundra": "2025-06-01 21:27:55 +0000",
       "spider_nest": "2025-06-01 21:26:20 +0000",
+      "overgrown_greens": "2025-06-01 22:32:37 +0000",
       "seasonal_forest": "2025-06-01 21:31:01 +0000",
       "cold_desert": "2025-06-01 21:21:27 +0000",
+      "rocky_shrubland": "2025-06-01 22:32:22 +0000",
       "coniferous_forest": "2025-06-01 20:51:06 +0000",
       "grassland": "2025-06-01 22:14:30 +0000"
     },
@@ -465,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-01 22:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-01 21:18:18 +0000"
@@ -480,6 +488,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-01 22:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-01 22:29:35 +0000"
     },
     "done": true
   },
@@ -516,6 +530,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-01 21:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-01 22:29:35 +0000"
     },
     "done": true
   },
@@ -606,6 +626,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-01 21:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-01 22:29:35 +0000"
     },
     "done": true
   },
@@ -1035,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-01 22:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-06-01 21:29:24 +0000"
@@ -1110,6 +1142,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-01 21:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-01 22:29:35 +0000"
     },
     "done": true
   },
@@ -1218,6 +1256,12 @@
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-01 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/moonlight_edge": {
+    "criteria": {
+      "1": "2025-06-01 22:30:47 +0000"
     },
     "done": true
   },
