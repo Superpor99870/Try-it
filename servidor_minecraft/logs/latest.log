@@ -180,3 +180,6 @@
 [20:21:42] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
 [20:21:46] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
 [20:21:49] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
+[20:24:19] [Server thread/WARN]: Player 'literal{Akukis} (5134f704-e126-305b-b6d6-49fcca5a845e)' tried to delete ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='item.minecraft.axolotl_bucket', args=[]}]]]}[style={color=white,hoverEvent=class_8826[action=<action show_item>, value=net.minecraft.class_2568$class_5249@af5f4c69]}]' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='block.minecraft.air', args=[]}]]]}'.
+[20:26:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:26:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
