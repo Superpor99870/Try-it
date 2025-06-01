@@ -183,3 +183,7 @@
 [20:24:19] [Server thread/WARN]: Player 'literal{Akukis} (5134f704-e126-305b-b6d6-49fcca5a845e)' tried to delete ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='item.minecraft.axolotl_bucket', args=[]}]]]}[style={color=white,hoverEvent=class_8826[action=<action show_item>, value=net.minecraft.class_2568$class_5249@af5f4c69]}]' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='block.minecraft.air', args=[]}]]]}'.
 [20:26:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [20:26:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:34:44] [Server thread/INFO]: Villager class_1646['Villager'/188, l='ServerLevel[world]', x=186.39, y=63.00, z=-341.74] died, message: 'Villager was slain by Zombie'
+[20:34:50] [Server thread/INFO]: Villager class_1646['Villager'/185, l='ServerLevel[world]', x=186.75, y=63.00, z=-343.84] died, message: 'Villager was slain by Zombie'
+[20:34:57] [Server thread/INFO]: Villager class_1646['Villager'/186, l='ServerLevel[world]', x=186.13, y=63.00, z=-343.30] died, message: 'Villager was slain by Zombie Villager'
+[20:35:00] [Server thread/INFO]: Villager class_1646['Shepherd'/187, l='ServerLevel[world]', x=186.13, y=63.00, z=-343.83] died, message: 'Shepherd was slain by Zombie Villager'
