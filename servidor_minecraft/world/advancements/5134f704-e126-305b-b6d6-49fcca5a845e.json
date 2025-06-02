@@ -80,7 +80,9 @@
       "cooked_mutton": "2025-06-01 04:25:21 +0000",
       "cooked_beef": "2025-05-31 17:29:34 +0000",
       "tropical_fish": "2025-05-31 16:58:35 +0000",
+      "golden_carrot": "2025-06-02 19:34:10 +0000",
       "apple": "2025-05-31 17:33:10 +0000",
+      "spider_eye": "2025-06-02 19:29:57 +0000",
       "enchanted_golden_apple": "2025-06-02 00:17:16 +0000",
       "potato": "2025-05-31 17:39:24 +0000",
       "poisonous_potato": "2025-05-31 17:39:19 +0000"
@@ -2980,6 +2982,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-06-02 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-02 19:29:49 +0000"
     },
     "done": true
   },
