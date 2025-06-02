@@ -307,3 +307,8 @@
 [20:55:37] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [20:55:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [20:57:56] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:01:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:01:17] [Server thread/INFO]: Akukis has made the advancement [Who Needs Rockets?]
+[21:02:49] [Server thread/INFO]: Akukis was slain by Iron Golem
+[21:07:41] [Server thread/INFO]: Villager class_1646['Farmer'/53005, l='ServerLevel[world]', x=171.49, y=69.00, z=-326.59] died, message: 'Farmer was slain by Zombie'
+[21:09:48] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
