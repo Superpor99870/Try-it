@@ -81,6 +81,7 @@
       "cooked_beef": "2025-05-31 17:29:34 +0000",
       "tropical_fish": "2025-05-31 16:58:35 +0000",
       "apple": "2025-05-31 17:33:10 +0000",
+      "enchanted_golden_apple": "2025-06-02 00:17:16 +0000",
       "potato": "2025-05-31 17:39:24 +0000",
       "poisonous_potato": "2025-05-31 17:39:19 +0000"
     },
@@ -2304,6 +2305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-02 00:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 22:59:21 +0000"
@@ -2331,6 +2338,12 @@
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-06-02 00:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-02 00:27:19 +0000"
     },
     "done": true
   },
@@ -2580,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 00:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-01 23:55:30 +0000"
@@ -2649,6 +2668,12 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 00:25:19 +0000"
     },
     "done": true
   },
