@@ -220,3 +220,70 @@
 [20:13:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [20:14:46] [Server thread/INFO]: [Akukis: Summoned new Villager]
 [20:17:42] [Server thread/INFO]: Villager class_1646['Villager'/37377, l='ServerLevel[world]', x=134.55, y=85.00, z=-423.74] died, message: 'Villager was slain by Akukis'
+[20:22:28] [Server thread/INFO]: Akukis has made the advancement [Who is Cutting Onions?]
+[20:23:01] [Server thread/INFO]: Akukis has made the advancement [We Need to Go Deeper]
+[20:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:23:26] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:26] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:51] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:51] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:53] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:23:55] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:24:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:24:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:24:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=83, z=-76} class_2338{x=38, y=84, z=-76}
+[20:24:32] [Server thread/INFO]: Akukis lost connection: Disconnected
+[20:24:32] [Server thread/INFO]: Akukis left the game
+[20:25:54] [Server thread/INFO]: Akukis[/10.243.156.190:52449] logged in with entity id 40526 at (37.37013205937509, 85.0, -74.69999998807907)
+[20:25:54] [Server thread/INFO]: Akukis joined the game
+[20:26:09] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:26:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:26:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=68, z=-75} class_2338{x=57, y=67, z=-75}
+[20:26:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=65, z=-75} class_2338{x=60, y=65, z=-75}
+[20:26:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=56, z=-75} class_2338{x=69, y=55, z=-75}
+[20:26:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=58, z=-75} class_2338{x=69, y=55, z=-75}
+[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=55, z=-75} class_2338{x=70, y=55, z=-75}
+[20:26:34] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:26:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:46] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:56] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:26:56] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:56] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:26:59] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:27:04] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 2 ms
+[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:27:08] [Server thread/INFO]: [Akukis: Teleported Akukis to 192.500000, 53.000000, -319.500000]
+[20:27:08] [Server thread/INFO]: Akukis has made the advancement [Those Were the Days]
+[20:27:35] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[20:28:09] [Server thread/INFO]: Akukis was killed
+[20:28:09] [Server thread/INFO]: [Akukis: Killed Akukis]
+[20:28:15] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:28:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:28:24] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
