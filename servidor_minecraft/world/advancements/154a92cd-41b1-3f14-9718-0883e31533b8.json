@@ -1930,6 +1930,12 @@
     },
     "done": true
   },
+  "spellbound_weapons:used_shield": {
+    "criteria": {
+      "requirement": "2025-06-02 01:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-02 01:09:41 +0000"
