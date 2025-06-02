@@ -513,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-02 00:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-01 23:30:54 +0000"
@@ -837,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-02 00:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-01 23:51:06 +0000"
@@ -1113,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_heavy_core": "2025-06-02 00:11:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-06-01 22:39:54 +0000"
@@ -1257,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-06-02 00:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-06-01 23:58:59 +0000"
@@ -1383,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-02 00:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-01 21:40:09 +0000"
@@ -1452,6 +1482,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-06-01 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-06-02 00:14:31 +0000"
     },
     "done": true
   },
