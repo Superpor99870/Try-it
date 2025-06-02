@@ -184,3 +184,11 @@
 [19:38:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=87, z=-423} class_2338{x=126, y=87, z=-425}
 [19:38:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=87, z=-423} class_2338{x=124, y=86, z=-424}
 [19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=86, z=-418} class_2338{x=121, y=86, z=-419}
+[19:39:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:39:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:39:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:39:59] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:45:13] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:45:20] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:45:31] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[19:45:43] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
