@@ -450,6 +450,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-31 17:06:32 +0000",
+      "minecraft:phantom": "2025-06-03 23:37:57 +0000",
       "minecraft:breeze": "2025-06-01 23:48:05 +0000",
       "minecraft:enderman": "2025-06-01 22:26:14 +0000",
       "minecraft:silverfish": "2025-06-01 23:57:59 +0000",
