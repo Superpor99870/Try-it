@@ -1,6 +1,6 @@
-[18:58:46] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[18:58:46] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[18:58:46] [main/INFO]: Loading 68 mods:
+[22:46:36] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[22:46:37] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:46:38] [main/INFO]: Loading 68 mods:
 	- advancednetherite 2.1.6-1.21
 	- betterdungeons 1.21.1-Fabric-5.1.4
 	   \-- org_reflections_reflections 0.10.2
@@ -89,226 +89,62 @@
 	- yungsapi 1.21.1-Fabric-5.1.5
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[18:58:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:58:47] [main/INFO]: Compatibility level set to JAVA_21
-[18:58:48] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[18:58:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:59:01] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[18:59:01] [main/INFO]: Reflections took 60 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:01] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:01] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 1 values
-[18:59:01] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[18:59:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[18:59:01] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:59:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
-[18:59:01] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[18:59:01] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:02] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:03] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
-[18:59:03] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[18:59:03] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[18:59:03] [main/ERROR]: No data fixer registered for anomaly
-[18:59:03] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[18:59:03] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[18:59:03] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[18:59:03] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[18:59:03] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[18:59:03] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[18:59:03] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[18:59:03] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:04] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
-[18:59:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:59:07] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
-[18:59:08] [main/INFO]: Loaded 1655 recipes
-[18:59:08] [main/INFO]: Loaded 1794 advancements
-[18:59:09] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[18:59:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[18:59:10] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 62.11 ms
-[18:59:10] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:59:10] [Server thread/INFO]: Loading properties
-[18:59:10] [Server thread/INFO]: Default game type: SURVIVAL
-[18:59:10] [Server thread/INFO]: Generating keypair
-[18:59:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:59:10] [Server thread/INFO]: Using epoll channel type
-[18:59:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:59:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:59:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:59:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:59:11] [Server thread/INFO]: Preparing level "world"
-[18:59:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:59:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:59:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:59:27] [Server thread/INFO]: Time elapsed: 1071 ms
-[18:59:27] [Server thread/INFO]: Done (16.421s)! For help, type "help"
-[18:59:28] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[19:01:52] [Server thread/INFO]: Akukis[/10.243.156.190:51906] logged in with entity id 7 at (330.67003664610155, -31.0, -246.64107966384225)
-[19:01:52] [Server thread/INFO]: Akukis joined the game
-[19:02:05] [Server thread/INFO]: Akukis was killed
-[19:02:05] [Server thread/INFO]: [Akukis: Killed Akukis]
-[19:03:12] [Server thread/INFO]: Akukis was slain by Iron Golem
-[19:05:13] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[19:05:51] [Server thread/INFO]: Akukis lost connection: Disconnected
-[19:05:51] [Server thread/INFO]: Akukis left the game
-[19:06:01] [Server thread/INFO]: Akukis[/10.243.156.190:52037] logged in with entity id 2862 at (198.5648691468007, 109.0, -430.4333252474881)
-[19:06:01] [Server thread/INFO]: Akukis joined the game
-[19:07:25] [Server thread/INFO]: Akukis was slain by Iron Golem
-[19:07:49] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:12:54] [Server thread/INFO]: [Akukis: Set the time to 1000]
-[19:13:58] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:17:11] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:17:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:18:03] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:19:15] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:25:01] [Server thread/INFO]: [Akukis: Applied effect Haste to Akukis]
-[19:27:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=86, z=-415} class_2338{x=129, y=85, z=-414}
-[19:28:02] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:28:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:28:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:28:37] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:31:21] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:32:04] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=85, z=-412} class_2338{x=118, y=85, z=-412}
-[19:32:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=85, z=-412} class_2338{x=118, y=85, z=-412}
-[19:32:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=85, z=-412} class_2338{x=118, y=85, z=-412}
-[19:32:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=85, z=-412} class_2338{x=118, y=85, z=-412}
-[19:34:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:34:47] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:35:35] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:36:00] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:36:13] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:36:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:38:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=87, z=-423} class_2338{x=126, y=87, z=-425}
-[19:38:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=87, z=-423} class_2338{x=126, y=87, z=-425}
-[19:38:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=87, z=-423} class_2338{x=126, y=87, z=-425}
-[19:38:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=87, z=-423} class_2338{x=124, y=86, z=-424}
-[19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=86, z=-418} class_2338{x=121, y=86, z=-419}
-[19:39:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:39:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:39:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:39:59] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:45:13] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:45:20] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:45:31] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:45:43] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:49:38] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:49:45] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:49:59] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:50:08] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:51:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=84, z=-416} class_2338{x=147, y=84, z=-418}
-[19:51:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=84, z=-416} class_2338{x=147, y=84, z=-418}
-[19:51:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=84, z=-416} class_2338{x=147, y=84, z=-418}
-[19:53:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:53:29] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:54:04] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:54:14] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:55:04] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:55:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:56:47] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:56:52] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:57:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[19:57:54] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:01:55] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:02:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:02:14] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:02:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:02:42] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:02:52] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:13:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:13:34] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:13:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:14:46] [Server thread/INFO]: [Akukis: Summoned new Villager]
-[20:17:42] [Server thread/INFO]: Villager class_1646['Villager'/37377, l='ServerLevel[world]', x=134.55, y=85.00, z=-423.74] died, message: 'Villager was slain by Akukis'
-[20:22:28] [Server thread/INFO]: Akukis has made the advancement [Who is Cutting Onions?]
-[20:23:01] [Server thread/INFO]: Akukis has made the advancement [We Need to Go Deeper]
-[20:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:20] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:23:26] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:26] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:41] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:51] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:51] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:52] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:53] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:23:55] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:23:55] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:24:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:24:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:24:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=83, z=-76} class_2338{x=38, y=84, z=-76}
-[20:24:32] [Server thread/INFO]: Akukis lost connection: Disconnected
-[20:24:32] [Server thread/INFO]: Akukis left the game
-[20:25:54] [Server thread/INFO]: Akukis[/10.243.156.190:52449] logged in with entity id 40526 at (37.37013205937509, 85.0, -74.69999998807907)
-[20:25:54] [Server thread/INFO]: Akukis joined the game
-[20:26:09] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:26:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:26:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=68, z=-75} class_2338{x=57, y=67, z=-75}
-[20:26:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=65, z=-75} class_2338{x=60, y=65, z=-75}
-[20:26:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=56, z=-75} class_2338{x=69, y=55, z=-75}
-[20:26:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=58, z=-75} class_2338{x=69, y=55, z=-75}
-[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=55, z=-75} class_2338{x=70, y=55, z=-75}
-[20:26:34] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:26:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:43] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:46] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:56] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:26:56] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:56] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:26:59] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:27:04] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 2 ms
-[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:27:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[20:27:08] [Server thread/INFO]: [Akukis: Teleported Akukis to 192.500000, 53.000000, -319.500000]
-[20:27:08] [Server thread/INFO]: Akukis has made the advancement [Those Were the Days]
-[20:27:35] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:28:09] [Server thread/INFO]: Akukis was killed
-[20:28:09] [Server thread/INFO]: [Akukis: Killed Akukis]
-[20:28:15] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:28:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:28:24] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:42:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:45:42] [Server thread/INFO]: Akukis was slain by Zombie
-[20:49:28] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:49:48] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:50] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:51] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:54] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:56] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:56] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:57] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:57] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:49:59] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:50:03] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:50:05] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:50:06] [Server thread/INFO]: [Akukis: Summoned new Iron Golem]
-[20:55:01] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:55:08] [Server thread/INFO]: Akukis was killed by Potion using magic
-[20:55:37] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[20:55:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:57:56] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:01:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:01:17] [Server thread/INFO]: Akukis has made the advancement [Who Needs Rockets?]
-[21:02:49] [Server thread/INFO]: Akukis was slain by Iron Golem
-[21:07:41] [Server thread/INFO]: Villager class_1646['Farmer'/53005, l='ServerLevel[world]', x=171.49, y=69.00, z=-326.59] died, message: 'Farmer was slain by Zombie'
-[21:09:48] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[22:46:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:46:39] [main/INFO]: Compatibility level set to JAVA_21
+[22:46:41] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:46:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:47:03] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[22:47:03] [main/INFO]: Reflections took 130 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:03] [main/INFO]: Reflections took 19 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:03] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[22:47:03] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[22:47:03] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:03] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:03] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[22:47:03] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[22:47:03] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[22:47:03] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[22:47:03] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:03] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:06] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
+[22:47:07] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[22:47:07] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[22:47:07] [main/ERROR]: No data fixer registered for anomaly
+[22:47:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:47:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:47:08] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:47:08] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:47:08] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:47:08] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:47:08] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:47:08] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:08] [main/INFO]: Reflections took 12 ms to scan 1 urls, producing 1 keys and 3 values
+[22:47:08] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:47:14] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
+[22:47:15] [main/INFO]: Loaded 1655 recipes
+[22:47:16] [main/INFO]: Loaded 1794 advancements
+[22:47:19] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:47:19] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:47:19] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 51.97 ms
+[22:47:19] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:47:19] [Server thread/INFO]: Loading properties
+[22:47:19] [Server thread/INFO]: Default game type: SURVIVAL
+[22:47:19] [Server thread/INFO]: Generating keypair
+[22:47:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:20] [Server thread/INFO]: Using epoll channel type
+[22:47:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:47:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:47:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:47:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:47:20] [Server thread/INFO]: Preparing level "world"
+[22:47:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:47:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:47:40] [Server thread/INFO]: Time elapsed: 1807 ms
+[22:47:40] [Server thread/INFO]: Done (19.904s)! For help, type "help"
+[22:47:41] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[22:48:37] [Server thread/INFO]: Akukis[/10.243.156.190:56246] logged in with entity id 6 at (122.03301175501369, 89.0, -425.96922834842695)
+[22:48:37] [Server thread/INFO]: Akukis joined the game
+[22:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
