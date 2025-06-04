@@ -14,6 +14,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-06-01 04:00:58 +0000",
+      "undergrowth": "2025-06-03 23:49:34 +0000",
       "seasonal_forest": "2025-06-01 04:10:14 +0000",
       "shrubland": "2025-06-01 04:20:06 +0000",
       "highland": "2025-06-01 04:15:56 +0000",
@@ -589,7 +590,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-01 04:10:21 +0000",
-      "minecraft:zombie": "2025-06-01 04:13:00 +0000"
+      "minecraft:zombie": "2025-06-01 04:13:00 +0000",
+      "minecraft:hoglin": "2025-06-03 23:51:50 +0000"
     },
     "done": false
   },
@@ -935,6 +937,30 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-03 23:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-03 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-06-03 23:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-03 23:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-03 23:39:20 +0000"
@@ -953,24 +979,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-06-03 23:33:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-03 23:32:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-03 23:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-03 23:42:29 +0000"
@@ -983,9 +991,57 @@
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "who_needs_rockets": "2025-06-03 23:33:57 +0000"
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-03 23:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-03 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-03 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-03 23:46:48 +0000"
     },
     "done": true
   },
