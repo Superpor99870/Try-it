@@ -16,6 +16,7 @@
       "visceral_heap": "2025-06-02 20:27:22 +0000",
       "grassland": "2025-05-31 16:46:50 +0000",
       "prairie": "2025-06-04 01:00:09 +0000",
+      "dune_beach": "2025-06-04 01:16:33 +0000",
       "erupting_inferno": "2025-06-02 20:27:50 +0000",
       "glowing_grotto": "2025-05-31 16:54:19 +0000",
       "orchard": "2025-06-01 22:43:05 +0000",
@@ -275,9 +276,12 @@
       "minecraft:forest": "2025-05-31 16:58:38 +0000",
       "minecraft:sparse_jungle": "2025-06-01 22:47:25 +0000",
       "minecraft:jungle": "2025-05-31 16:53:27 +0000",
+      "minecraft:ocean": "2025-06-04 01:06:42 +0000",
+      "minecraft:deep_ocean": "2025-06-04 01:19:38 +0000",
       "minecraft:cherry_grove": "2025-06-01 22:46:19 +0000",
       "minecraft:river": "2025-05-31 16:45:26 +0000",
       "minecraft:birch_forest": "2025-05-31 16:53:31 +0000",
+      "minecraft:stony_shore": "2025-06-04 01:04:22 +0000",
       "minecraft:lush_caves": "2025-05-31 16:55:28 +0000",
       "minecraft:plains": "2025-06-01 22:43:46 +0000"
     },
@@ -461,6 +465,7 @@
       "minecraft:spider": "2025-05-31 17:28:30 +0000",
       "minecraft:zombie": "2025-05-31 16:50:19 +0000",
       "minecraft:creeper": "2025-05-31 17:24:01 +0000",
+      "minecraft:drowned": "2025-06-04 01:12:35 +0000",
       "minecraft:husk": "2025-06-01 23:42:22 +0000",
       "minecraft:slime": "2025-06-01 23:42:51 +0000"
     },
@@ -3773,15 +3778,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 00:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-04 00:59:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_bow": "2025-06-04 00:59:36 +0000"
+      "used_totem": "2025-06-04 01:23:50 +0000"
     },
     "done": true
   },
