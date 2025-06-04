@@ -28,3 +28,24 @@
 [00:37:37] [Server thread/INFO]: Villager class_1646['Farmer'/22711, l='ServerLevel[world]', x=168.58, y=63.00, z=-351.22] died, message: 'Farmer was slain by Zombie'
 [00:38:03] [Server thread/INFO]: [Akukis: Gave 24 [Smithing Template] to Akukis]
 [00:38:12] [Server thread/INFO]: Akukis has completed the challenge [Cover Me in Debris]
+[00:40:07] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[00:40:20] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:41:46] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:41:53] [Server thread/INFO]: [Not Secure] <Akukis> oe
+[00:41:55] [Server thread/INFO]: [Not Secure] <Akukis> mañosa
+[00:41:59] [Server thread/INFO]: [Not Secure] <siganconsumiendo> ?
+[00:42:04] [Server thread/INFO]: [Not Secure] <Akukis> que haces?
+[00:42:09] [Server thread/INFO]: [Not Secure] <siganconsumiendo> nada
+[00:42:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
+[00:44:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
+[00:44:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
+[00:44:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=69, z=-432} class_2338{x=436, y=69, z=-432}
+[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
+[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
+[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
+[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=70, z=-433} class_2338{x=430, y=69, z=-431}
+[00:46:47] [Server thread/INFO]: [Akukis: Gave 1 [Nature's Compass] to Akukis]
+[00:47:08] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[00:47:08] [Server thread/INFO]: Search succeeded: 870 radius, 249 samples
+[00:47:16] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]

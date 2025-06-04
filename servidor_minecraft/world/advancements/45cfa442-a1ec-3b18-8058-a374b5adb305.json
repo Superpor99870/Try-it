@@ -14,6 +14,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-06-01 04:00:58 +0000",
+      "glowing_grotto": "2025-06-04 00:44:06 +0000",
       "undergrowth": "2025-06-03 23:49:34 +0000",
       "seasonal_forest": "2025-06-01 04:10:14 +0000",
       "shrubland": "2025-06-01 04:20:06 +0000",
@@ -37,7 +38,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cookie": "2025-06-01 03:59:12 +0000"
+      "mutton": "2025-06-04 00:42:48 +0000",
+      "cookie": "2025-06-01 03:59:12 +0000",
+      "rotten_flesh": "2025-06-04 00:42:54 +0000",
+      "porkchop": "2025-06-04 00:47:32 +0000"
     },
     "done": false
   },
@@ -831,6 +835,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-06-04 00:43:51 +0000",
       "minecraft:river": "2025-06-01 04:20:03 +0000"
     },
     "done": false
@@ -991,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-04 00:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-04 00:33:41 +0000"
@@ -1000,6 +1011,24 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-04 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-06-04 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-04 00:38:47 +0000"
     },
     "done": true
   },
@@ -1057,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-04 00:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-06-03 23:46:48 +0000"
@@ -1078,6 +1113,24 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-04 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-04 00:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-04 00:47:43 +0000"
     },
     "done": true
   },
