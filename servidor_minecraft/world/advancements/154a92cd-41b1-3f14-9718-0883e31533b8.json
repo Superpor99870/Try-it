@@ -22,6 +22,7 @@
       "grassland": "2025-06-01 22:14:30 +0000",
       "tundra": "2025-06-01 21:27:55 +0000",
       "orchard": "2025-06-01 22:42:57 +0000",
+      "undergrowth": "2025-06-04 23:15:34 +0000",
       "overgrown_greens": "2025-06-01 22:32:37 +0000",
       "seasonal_forest": "2025-06-01 21:31:01 +0000",
       "highland": "2025-06-01 23:28:34 +0000",
@@ -435,15 +436,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-06-01 21:56:05 +0000",
       "minecraft:skeleton": "2025-06-01 21:37:26 +0000",
+      "minecraft:wither_skeleton": "2025-06-04 23:15:55 +0000",
+      "minecraft:husk": "2025-06-01 23:42:48 +0000",
+      "minecraft:hoglin": "2025-06-04 23:19:12 +0000",
+      "minecraft:cave_spider": "2025-06-01 21:56:05 +0000",
+      "minecraft:piglin": "2025-06-04 23:19:18 +0000",
       "minecraft:breeze": "2025-06-01 23:49:16 +0000",
       "minecraft:silverfish": "2025-06-02 00:22:08 +0000",
+      "minecraft:enderman": "2025-06-04 23:41:29 +0000",
       "minecraft:spider": "2025-06-01 21:57:26 +0000",
       "minecraft:zombie": "2025-06-01 21:02:11 +0000",
       "minecraft:creeper": "2025-06-01 21:04:42 +0000",
       "minecraft:zombie_villager": "2025-06-01 21:04:38 +0000",
-      "minecraft:husk": "2025-06-01 23:42:48 +0000",
       "minecraft:slime": "2025-06-02 00:02:01 +0000"
     },
     "done": false
@@ -740,6 +745,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-06-01 21:31:35 +0000",
       "minecraft:forest": "2025-06-01 22:47:04 +0000",
+      "minecraft:taiga": "2025-06-04 23:37:24 +0000",
       "minecraft:sparse_jungle": "2025-06-01 22:47:28 +0000",
       "minecraft:jungle": "2025-06-01 22:57:47 +0000",
       "minecraft:cherry_grove": "2025-06-01 22:46:05 +0000",
@@ -1034,8 +1040,11 @@
     "criteria": {
       "cooked_porkchop": "2025-06-01 21:25:15 +0000",
       "bread": "2025-06-01 21:19:33 +0000",
+      "rotten_flesh": "2025-06-04 23:22:26 +0000",
+      "enchanted_golden_apple": "2025-06-04 23:27:24 +0000",
       "cooked_beef": "2025-06-01 21:46:14 +0000",
-      "baked_potato": "2025-06-01 21:41:47 +0000"
+      "baked_potato": "2025-06-01 21:41:47 +0000",
+      "golden_carrot": "2025-06-04 23:22:30 +0000"
     },
     "done": false
   },
@@ -2308,6 +2317,217 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-02 01:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-06-04 23:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-04 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-04 23:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-04 23:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 23:18:17 +0000",
+      "minecraft:nether_wastes": "2025-06-04 23:15:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-06-04 23:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_minecraft:gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-04 23:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-04 23:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-04 23:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-04 23:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-04 23:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 23:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-04 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 23:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-04 23:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-04 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-04 23:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 23:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-04 23:40:36 +0000"
     },
     "done": true
   },

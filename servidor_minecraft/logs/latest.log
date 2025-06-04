@@ -190,3 +190,245 @@
 [23:11:08] [Server thread/INFO]: cuycito has made the advancement [Who Needs Rockets?]
 [23:12:09] [Server thread/INFO]: [Akukis: Gave 1 [Trident] to Akukis]
 [23:12:43] [Server thread/INFO]: Akukis has made the advancement [A Throwaway Joke]
+[23:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[23:13:44] [Server thread/INFO]: Locating element #betterfortresses:better_fortresses (betterfortresses:fortress) took 41 ms
+[23:13:47] [Server thread/INFO]: [Akukis: Teleported Akukis to -383.500000, 94.000000, -335.500000]
+[23:13:48] [Server thread/INFO]: Akukis has made the advancement [A Terrible Fortress]
+[23:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6259ms or 125 ticks behind
+[23:14:03] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23:14:38] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:14:45] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:15:00] [Server thread/INFO]: cuycito has made the advancement [We Need to Go Deeper]
+[23:15:16] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:15:21] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[23:15:33] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:15:34] [Server thread/INFO]: cuycito has made the advancement [A Terrible Fortress]
+[23:15:41] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
+[23:16:09] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:24] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:27] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:28] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:28] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:29] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:30] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:32] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:38] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:38] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:44] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:44] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:47] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:16:50] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:50] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:52] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:55] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:55] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:55] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:57] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:17:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:22] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:22] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:23] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:24] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:24] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:17:39] [Server thread/INFO]: Akukis has made the advancement [Into Fire]
+[23:17:57] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:19:06] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[23:19:37] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[23:21:10] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[23:21:47] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:22:50] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:23:39] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:39] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:41] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:43] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:50] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:50] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:23:51] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:01] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:01] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:02] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:03] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:03] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:04] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:04] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:04] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:14] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:24:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:21] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:28] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:24:32] [Server thread/INFO]: cuycito has made the advancement [Those Were the Days]
+[23:24:41] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:41] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:45] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:54] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:54] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:55] [Server thread/INFO]: cuycito was slain by Piglin Brute
+[23:25:03] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:25:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:07] [Server thread/INFO]: cuycito has made the advancement [War Pigs]
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:11] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:16] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:18] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:18] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:25:25] [Server thread/INFO]: Akukis has made the advancement [War Pigs]
+[23:25:31] [Server thread/INFO]: cuycito has made the advancement [Into Fire]
+[23:26:28] [Server thread/INFO]: cuycito was slain by Piglin Brute
+[23:26:34] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:26:41] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:26:43] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:27:48] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:27:48] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:27:57] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:28:00] [Server thread/INFO]: cuycito was slain by Piglin Brute
+[23:28:21] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[23:28:21] [Server thread/INFO]: cuycito lost connection: Timed out
+[23:28:21] [Server thread/INFO]: cuycito left the game
+[23:28:22] [Server thread/WARN]: handleDisconnection() called twice
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:31] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:31] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:31] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:42] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:42] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:42] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:29:51] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:30:23] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[23:30:26] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:30:44] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:30:49] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:30:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[23:31:15] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:31:38] [Server thread/INFO]: Akukis has completed the challenge [Hot Tourist Destinations]
+[23:31:50] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:31:50] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:05] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:05] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:06] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:07] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:08] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:08] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:08] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:08] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:08] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:09] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:09] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:09] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:13] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:13] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:29] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:30] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:33] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:34] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:34] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:34] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:32:39] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:33:01] [Server thread/INFO]: Akukis was killed
+[23:33:01] [Server thread/INFO]: [Akukis: Killed Akukis]
+[23:33:04] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[23:33:25] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:34:28] [Server thread/INFO]: Locating element #betterstrongholds:better_strongholds (betterstrongholds:stronghold) took 269 ms
+[23:35:36] [Server thread/INFO]: cuycito[/10.243.54.93:49917] logged in with entity id 22013 at (-1290.1064193984378, 66.0, 207.96265868159554)
+[23:35:36] [Server thread/INFO]: cuycito joined the game
+[23:35:50] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:36:34] [Server thread/INFO]: [Akukis: Teleported Akukis to -2335.500000, 82.000000, -3759.500000]
+[23:36:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:49] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14806ms or 296 ticks behind
+[23:36:49] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:36:57] [Server thread/INFO]: SearchWorkerManager 1ca788cd: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23:36:58] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:58] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:59] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:59] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:59] [Server thread/INFO]: SearchWorkerManager 1ca788cd: RandomSpreadSearchWorker succeeded with 1905 radius, 8 samples
+[23:37:03] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:37:03] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:37:03] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:37:13] [Server thread/INFO]: Akukis has made the advancement [Eye Spy]
+[23:37:21] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:37:23] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:37:24] [Server thread/INFO]: cuycito has made the advancement [Eye Spy]
+[23:38:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:39:26] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:39:43] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:40:01] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:40:04] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[23:40:30] [Server thread/INFO]: Akukis has made the advancement [The End?]
+[23:40:32] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:40:32] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[23:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[23:40:36] [Server thread/INFO]: cuycito has made the advancement [The End?]
+[23:42:01] [Server thread/INFO]: cuycito has made the advancement [Ol' Betsy]
+[23:42:23] [Server thread/INFO]: cuycito was slain by Ender Dragon
+[23:42:28] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]

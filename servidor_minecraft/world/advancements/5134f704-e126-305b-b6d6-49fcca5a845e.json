@@ -9,26 +9,29 @@
     "criteria": {
       "spider_nest": "2025-05-31 17:48:35 +0000",
       "wasteland": "2025-06-04 00:48:45 +0000",
-      "lavender_field": "2025-06-01 22:43:43 +0000",
       "shrubland": "2025-05-31 16:48:21 +0000",
       "rocky_shrubland": "2025-05-31 16:46:43 +0000",
       "redwood_forest": "2025-05-31 16:44:42 +0000",
       "visceral_heap": "2025-06-02 20:27:22 +0000",
-      "grassland": "2025-05-31 16:46:50 +0000",
-      "prairie": "2025-06-04 01:00:09 +0000",
       "dune_beach": "2025-06-04 01:16:33 +0000",
       "erupting_inferno": "2025-06-02 20:27:50 +0000",
-      "glowing_grotto": "2025-05-31 16:54:19 +0000",
-      "orchard": "2025-06-01 22:43:05 +0000",
       "floodplain": "2025-06-01 23:06:33 +0000",
-      "undergrowth": "2025-06-03 23:49:39 +0000",
       "lush_savanna": "2025-06-04 00:48:44 +0000",
-      "overgrown_greens": "2025-05-31 16:44:43 +0000",
       "seasonal_forest": "2025-06-01 04:10:24 +0000",
       "highland": "2025-05-31 16:32:00 +0000",
+      "rocky_rainforest": "2025-06-01 23:06:28 +0000",
+      "lavender_field": "2025-06-01 22:43:43 +0000",
+      "crystalline_chasm": "2025-06-04 23:31:27 +0000",
+      "grassland": "2025-05-31 16:46:50 +0000",
+      "prairie": "2025-06-04 01:00:09 +0000",
+      "withered_abyss": "2025-06-04 23:31:19 +0000",
+      "glowing_grotto": "2025-05-31 16:54:19 +0000",
+      "orchard": "2025-06-01 22:43:05 +0000",
+      "field": "2025-06-04 23:39:00 +0000",
+      "undergrowth": "2025-06-03 23:49:39 +0000",
+      "overgrown_greens": "2025-05-31 16:44:43 +0000",
       "rainforest": "2025-06-01 23:01:35 +0000",
-      "coniferous_forest": "2025-05-31 16:31:13 +0000",
-      "rocky_rainforest": "2025-06-01 23:06:28 +0000"
+      "coniferous_forest": "2025-05-31 16:31:13 +0000"
     },
     "done": false
   },
@@ -275,15 +278,18 @@
     "criteria": {
       "minecraft:dark_forest": "2025-05-31 16:48:26 +0000",
       "minecraft:forest": "2025-05-31 16:58:38 +0000",
+      "minecraft:taiga": "2025-06-04 23:36:50 +0000",
       "minecraft:sparse_jungle": "2025-06-01 22:47:25 +0000",
-      "minecraft:jungle": "2025-05-31 16:53:27 +0000",
-      "minecraft:ocean": "2025-06-04 01:06:42 +0000",
       "minecraft:deep_ocean": "2025-06-04 01:19:38 +0000",
-      "minecraft:cherry_grove": "2025-06-01 22:46:19 +0000",
       "minecraft:river": "2025-05-31 16:45:26 +0000",
-      "minecraft:birch_forest": "2025-05-31 16:53:31 +0000",
       "minecraft:stony_shore": "2025-06-04 01:04:22 +0000",
       "minecraft:lush_caves": "2025-05-31 16:55:28 +0000",
+      "minecraft:dripstone_caves": "2025-06-04 23:38:44 +0000",
+      "minecraft:windswept_forest": "2025-06-04 23:38:55 +0000",
+      "minecraft:jungle": "2025-05-31 16:53:27 +0000",
+      "minecraft:ocean": "2025-06-04 01:06:42 +0000",
+      "minecraft:cherry_grove": "2025-06-01 22:46:19 +0000",
+      "minecraft:birch_forest": "2025-05-31 16:53:31 +0000",
       "minecraft:plains": "2025-06-01 22:43:46 +0000"
     },
     "done": false
@@ -458,17 +464,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-04 23:17:04 +0000",
       "minecraft:skeleton": "2025-05-31 17:06:32 +0000",
       "minecraft:elder_guardian": "2025-06-04 22:34:23 +0000",
       "minecraft:phantom": "2025-06-03 23:37:57 +0000",
+      "minecraft:wither_skeleton": "2025-06-04 23:16:31 +0000",
+      "minecraft:husk": "2025-06-01 23:42:22 +0000",
+      "minecraft:piglin": "2025-06-04 23:24:45 +0000",
       "minecraft:breeze": "2025-06-01 23:48:05 +0000",
       "minecraft:enderman": "2025-06-01 22:26:14 +0000",
       "minecraft:silverfish": "2025-06-01 23:57:59 +0000",
       "minecraft:spider": "2025-05-31 17:28:30 +0000",
+      "minecraft:piglin_brute": "2025-06-04 23:24:54 +0000",
       "minecraft:zombie": "2025-05-31 16:50:19 +0000",
       "minecraft:creeper": "2025-05-31 17:24:01 +0000",
       "minecraft:drowned": "2025-06-04 01:12:35 +0000",
-      "minecraft:husk": "2025-06-01 23:42:22 +0000",
       "minecraft:slime": "2025-06-01 23:42:51 +0000"
     },
     "done": false
@@ -3313,10 +3323,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 23:14:08 +0000",
       "minecraft:nether_wastes": "2025-06-02 20:23:01 +0000",
-      "minecraft:warped_forest": "2025-06-02 20:27:26 +0000"
+      "minecraft:soul_sand_valley": "2025-06-04 23:31:38 +0000",
+      "minecraft:warped_forest": "2025-06-02 20:27:26 +0000",
+      "minecraft:basalt_deltas": "2025-06-04 23:23:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -3798,9 +3811,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-06-04 23:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 23:33:44 +0000"
     },
     "done": true
   },
@@ -3810,9 +3841,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-04 23:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-06-04 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 23:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-04 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-04 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-04 23:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 23:33:44 +0000"
     },
     "done": true
   },
@@ -3822,9 +3919,57 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-04 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 23:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-04 23:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-04 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-04 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-06-04 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 23:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-04 23:40:30 +0000"
     },
     "done": true
   },
