@@ -49,3 +49,26 @@
 [00:47:08] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [00:47:08] [Server thread/INFO]: Search succeeded: 870 radius, 249 samples
 [00:47:16] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:48:48] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[00:48:53] [Server thread/WARN]: siganconsumiendo moved too quickly! 1.3228270556219854,-9.780874326479093,2.4361351934515483
+[00:48:54] [Server thread/INFO]: siganconsumiendo fell from a high place
+[00:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[00:49:20] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:50:29] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:50:31] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[00:50:31] [Server thread/INFO]: Search succeeded: 2127 radius, 1223 samples
+[00:50:50] [Server thread/INFO]: [Not Secure] <siganconsumiendo> bro
+[00:50:54] [Server thread/INFO]: [Not Secure] <Akukis> ?
+[00:50:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:51:01] [Server thread/INFO]: [Not Secure] <siganconsumiendo> me acompañas?
+[00:51:05] [Server thread/INFO]: [Not Secure] <Akukis> yaya
+[00:51:08] [Server thread/INFO]: [Not Secure] <Akukis> dame un ratico
+[00:51:31] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:51:57] [Server thread/INFO]: siganconsumiendo has made the advancement [Not Today, Thank You]
+[00:52:58] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:53:04] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[00:53:10] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:53:25] [Server thread/INFO]: [Akukis: Gave 64 [Lapis Lazuli] to Akukis]
+[00:54:16] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]

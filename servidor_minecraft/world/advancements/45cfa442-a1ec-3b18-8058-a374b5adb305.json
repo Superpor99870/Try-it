@@ -16,10 +16,12 @@
       "spider_nest": "2025-06-01 04:00:58 +0000",
       "glowing_grotto": "2025-06-04 00:44:06 +0000",
       "undergrowth": "2025-06-03 23:49:34 +0000",
+      "overgrown_greens": "2025-06-04 00:51:29 +0000",
       "seasonal_forest": "2025-06-01 04:10:14 +0000",
       "shrubland": "2025-06-01 04:20:06 +0000",
       "highland": "2025-06-01 04:15:56 +0000",
       "coniferous_forest": "2025-06-01 03:57:23 +0000",
+      "redwood_forest": "2025-06-04 00:52:38 +0000",
       "grassland": "2025-06-01 04:13:58 +0000"
     },
     "done": false
@@ -41,6 +43,7 @@
       "mutton": "2025-06-04 00:42:48 +0000",
       "cookie": "2025-06-01 03:59:12 +0000",
       "rotten_flesh": "2025-06-04 00:42:54 +0000",
+      "cod": "2025-06-04 00:47:53 +0000",
       "porkchop": "2025-06-04 00:47:32 +0000"
     },
     "done": false
@@ -594,6 +597,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-01 04:10:21 +0000",
+      "minecraft:spider": "2025-06-04 00:53:43 +0000",
       "minecraft:zombie": "2025-06-01 04:13:00 +0000",
       "minecraft:hoglin": "2025-06-03 23:51:50 +0000"
     },
@@ -996,9 +1000,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-04 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-04 00:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-04 00:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
     },
     "done": true
   },
@@ -1014,9 +1036,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-04 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-06-04 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
     },
     "done": true
   },
@@ -1026,9 +1060,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-04 00:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
     },
     "done": true
   },
@@ -1092,9 +1138,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-04 00:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-06-03 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-04 00:52:00 +0000"
     },
     "done": true
   },
@@ -1107,6 +1165,24 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-03 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 00:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-04 00:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
     },
     "done": true
   },
@@ -1137,6 +1213,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-03 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-04 00:53:43 +0000"
     },
     "done": true
   },
