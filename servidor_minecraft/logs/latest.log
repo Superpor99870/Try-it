@@ -1,74 +1,161 @@
-[00:00:10] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:00:14] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:07:47] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:07:56] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:08:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:10:18] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[00:10:31] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[00:10:53] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[00:10:53] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[00:10:54] [Server thread/INFO]: [Akukis: Gave 128 [Emerald] to Akukis]
-[00:11:37] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:12:01] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:12:06] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:12:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:12:13] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:15:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:15:46] [Server thread/INFO]: Villager class_1646['Villager'/22712, l='ServerLevel[world]', x=183.51, y=64.00, z=-335.87] died, message: 'Villager hit the ground too hard'
-[00:17:03] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:33:16] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:34:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:34:39] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:34:48] [Server thread/INFO]: [Akukis: Gave 64 [Block of Coal] to Akukis]
-[00:34:48] [Server thread/INFO]: siganconsumiendo was slain by Iron Golem
-[00:35:03] [Server thread/INFO]: [Akukis: Gave 64 [Gold Ingot] to Akukis]
-[00:35:14] [Server thread/INFO]: [Not Secure] <Akukis> bro
-[00:35:18] [Server thread/INFO]: [Not Secure] <siganconsumiendo> que
-[00:35:28] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:37:37] [Server thread/INFO]: Villager class_1646['Farmer'/22711, l='ServerLevel[world]', x=168.58, y=63.00, z=-351.22] died, message: 'Farmer was slain by Zombie'
-[00:38:03] [Server thread/INFO]: [Akukis: Gave 24 [Smithing Template] to Akukis]
-[00:38:12] [Server thread/INFO]: Akukis has completed the challenge [Cover Me in Debris]
-[00:40:07] [Server thread/INFO]: siganconsumiendo was slain by Akukis
-[00:40:20] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:41:46] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:41:53] [Server thread/INFO]: [Not Secure] <Akukis> oe
-[00:41:55] [Server thread/INFO]: [Not Secure] <Akukis> mañosa
-[00:41:59] [Server thread/INFO]: [Not Secure] <siganconsumiendo> ?
-[00:42:04] [Server thread/INFO]: [Not Secure] <Akukis> que haces?
-[00:42:09] [Server thread/INFO]: [Not Secure] <siganconsumiendo> nada
-[00:42:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
-[00:44:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
-[00:44:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=71, z=-435} class_2338{x=432, y=69, z=-435}
-[00:44:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=69, z=-432} class_2338{x=436, y=69, z=-432}
-[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
-[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
-[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=431, y=70, z=-432} class_2338{x=430, y=69, z=-431}
-[00:44:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=70, z=-433} class_2338{x=430, y=69, z=-431}
-[00:46:47] [Server thread/INFO]: [Akukis: Gave 1 [Nature's Compass] to Akukis]
-[00:47:08] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[00:47:08] [Server thread/INFO]: Search succeeded: 870 radius, 249 samples
-[00:47:16] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:48:48] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[00:48:53] [Server thread/WARN]: siganconsumiendo moved too quickly! 1.3228270556219854,-9.780874326479093,2.4361351934515483
-[00:48:54] [Server thread/INFO]: siganconsumiendo fell from a high place
-[00:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
-[00:49:20] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:50:29] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:50:31] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[00:50:31] [Server thread/INFO]: Search succeeded: 2127 radius, 1223 samples
-[00:50:50] [Server thread/INFO]: [Not Secure] <siganconsumiendo> bro
-[00:50:54] [Server thread/INFO]: [Not Secure] <Akukis> ?
-[00:50:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:51:01] [Server thread/INFO]: [Not Secure] <siganconsumiendo> me acompañas?
-[00:51:05] [Server thread/INFO]: [Not Secure] <Akukis> yaya
-[00:51:08] [Server thread/INFO]: [Not Secure] <Akukis> dame un ratico
-[00:51:31] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:51:57] [Server thread/INFO]: siganconsumiendo has made the advancement [Not Today, Thank You]
-[00:52:58] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:53:04] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
-[00:53:10] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:53:25] [Server thread/INFO]: [Akukis: Gave 64 [Lapis Lazuli] to Akukis]
-[00:54:16] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:55:46] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[00:55:46] [ForkJoinPool-1-worker-1/WARN]: Mod spellbound_weapons_mr uses the version 4.1.0c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:55:47] [main/INFO]: Loading 68 mods:
+	- advancednetherite 2.1.6-1.21
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- biomesoplenty 21.0.0.18
+	- cicada 0.13.0+1.21-1.21.1
+	   \-- org_yaml_snakeyaml 2.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- explorerscompass 1.21-2.2.5-fabric
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- glitchcore 2.0.0.3
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- jei 19.21.1.304
+	- minecraft 1.21
+	- naturescompass 1.21-2.2.6-fabric
+	- plasmovoice 2.1.4
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- sound_physics_remastered 1.21.1-1.4.10
+	- spellbound_weapons_mr 4.1.0c
+	- terrablender 4.0.0.2
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- yungsapi 1.21.1-Fabric-5.1.5
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[00:55:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Try-it/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:55:47] [main/INFO]: Compatibility level set to JAVA_21
+[00:55:48] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:55:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:56:01] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[00:56:01] [main/INFO]: Reflections took 57 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:01] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[00:56:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[00:56:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:01] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:56:01] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:56:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:56:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:56:01] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:02] [Cicada thread 0/INFO]: '@enjarai why did you name the food chest "stuff to keep away from africa"'
+[00:56:03] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[00:56:03] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[00:56:03] [main/ERROR]: No data fixer registered for anomaly
+[00:56:04] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:56:04] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:56:04] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[00:56:04] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[00:56:04] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[00:56:04] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[00:56:04] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[00:56:04] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:04] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[00:56:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:56:07] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack spellbound_weapons_mr: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
+[00:56:08] [main/INFO]: Loaded 1655 recipes
+[00:56:09] [main/INFO]: Loaded 1794 advancements
+[00:56:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:56:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[00:56:10] [main/INFO]: Applied 228 biome modifications to 114 of 134 new biomes in 41.04 ms
+[00:56:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:56:10] [Server thread/INFO]: Loading properties
+[00:56:10] [Server thread/INFO]: Default game type: SURVIVAL
+[00:56:10] [Server thread/INFO]: Generating keypair
+[00:56:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:56:11] [Server thread/INFO]: Using epoll channel type
+[00:56:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:56:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:56:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:56:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:56:11] [Server thread/INFO]: Preparing level "world"
+[00:56:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:56:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:26] [Server thread/INFO]: Time elapsed: 1514 ms
+[00:56:26] [Server thread/INFO]: Done (14.843s)! For help, type "help"
+[00:56:26] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[00:56:36] [Server thread/INFO]: Akukis[/10.243.156.190:56954] logged in with entity id 6 at (-83.31243993393493, 65.0, -720.9251390537421)
+[00:56:36] [Server thread/INFO]: Akukis joined the game
+[00:56:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:57:10] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:57:29] [Server thread/INFO]: siganconsumiendo[/10.243.56.168:52028] logged in with entity id 936 at (-80.55171501153845, 65.0, -725.1903815227649)
+[00:57:29] [Server thread/INFO]: siganconsumiendo joined the game
+[00:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:59:12] [Server thread/INFO]: [Akukis: Set the time to 1000]
+[00:59:35] [Server thread/INFO]: [Akukis: Gave 1 [Spruce Boat] to Akukis]
+[00:59:41] [Server thread/INFO]: Akukis has made the advancement [Take Aim]
+[00:59:47] [Server thread/WARN]: Spruce Boat (vehicle of Akukis) moved wrongly! 0.29801629984592637
+[01:00:03] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:00:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:00:10] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:00:13] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
