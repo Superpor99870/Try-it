@@ -92,6 +92,7 @@
       "spider_eye": "2025-06-02 19:29:57 +0000",
       "enchanted_golden_apple": "2025-06-02 00:17:16 +0000",
       "potato": "2025-05-31 17:39:24 +0000",
+      "cod": "2025-06-04 22:34:53 +0000",
       "poisonous_potato": "2025-05-31 17:39:19 +0000"
     },
     "done": false
@@ -458,6 +459,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-31 17:06:32 +0000",
+      "minecraft:elder_guardian": "2025-06-04 22:34:23 +0000",
       "minecraft:phantom": "2025-06-03 23:37:57 +0000",
       "minecraft:breeze": "2025-06-01 23:48:05 +0000",
       "minecraft:enderman": "2025-06-01 22:26:14 +0000",
@@ -3793,6 +3795,36 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-06-04 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-04 23:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-04 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-04 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-04 22:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-04 22:34:23 +0000"
     },
     "done": true
   },
