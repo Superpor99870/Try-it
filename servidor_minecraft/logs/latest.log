@@ -8,3 +8,15 @@
 [00:05:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [00:05:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [00:05:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[00:06:04] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5625ms or 112 ticks behind
+[00:06:48] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:07:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:07:18] [Server thread/INFO]: Villager class_1646['Fisherman'/28467, l='ServerLevel[world]', x=202.05, y=109.56, z=-437.01] died, message: 'Fisherman burned to death'
+[00:07:27] [Server thread/INFO]: Villager class_1646['Fisherman'/28464, l='ServerLevel[world]', x=201.50, y=109.56, z=-435.50] died, message: 'Fisherman was slain by Akukis'
+[00:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[00:07:54] [Server thread/INFO]: [Akukis: Applied effect Hero of the Village to Akukis]
+[00:08:19] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[00:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:08:46] [Server thread/INFO]: cuycito was blown up by Akukis using [Fire Staff]
