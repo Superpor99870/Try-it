@@ -164,3 +164,8 @@
 [23:38:45] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:item_list3]
 [23:38:47] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:items/chainfiring]
 [23:39:52] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:43:34] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:47:05] [Server thread/INFO]: siganconsumiendo was blown up by Creeper
+[23:47:08] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:50:13] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
