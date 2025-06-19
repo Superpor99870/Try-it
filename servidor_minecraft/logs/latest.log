@@ -155,3 +155,12 @@
 [23:24:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@77ff8ddb[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
 [23:24:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@51b8b5f0[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
 [23:28:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@5365c907[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[23:32:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a85ce7c[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[23:35:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b9a46f2[id=45cfa442-a1ec-3b18-8058-a374b5adb305,name=siganconsumiendo,properties={}] lost connection: Disconnected
+[23:38:06] [Server thread/INFO]: siganconsumiendo[/10.243.226.247:53347] logged in with entity id 5156 at (201.12634942546364, 113.0, -441.30000001192093)
+[23:38:06] [Server thread/INFO]: siganconsumiendo joined the game
+[23:38:40] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:_item_list]
+[23:38:43] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:item_list2]
+[23:38:45] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:item_list3]
+[23:38:47] [Server thread/INFO]: [Akukis: Running function spellbound_weapons:items/chainfiring]
+[23:39:52] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
