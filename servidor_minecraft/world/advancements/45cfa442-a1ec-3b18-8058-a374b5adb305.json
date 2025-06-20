@@ -15,12 +15,14 @@
     "criteria": {
       "spider_nest": "2025-06-01 04:00:58 +0000",
       "shrubland": "2025-06-01 04:20:06 +0000",
+      "maple_woods": "2025-06-19 23:50:23 +0000",
       "rocky_shrubland": "2025-06-04 01:12:06 +0000",
       "redwood_forest": "2025-06-04 00:52:38 +0000",
       "grassland": "2025-06-01 04:13:58 +0000",
       "prairie": "2025-06-04 01:00:07 +0000",
       "dune_beach": "2025-06-04 01:16:21 +0000",
       "glowing_grotto": "2025-06-04 00:44:06 +0000",
+      "field": "2025-06-19 23:58:46 +0000",
       "undergrowth": "2025-06-03 23:49:34 +0000",
       "overgrown_greens": "2025-06-04 00:51:29 +0000",
       "seasonal_forest": "2025-06-01 04:10:14 +0000",
@@ -602,6 +604,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-19 23:53:55 +0000",
       "minecraft:skeleton": "2025-06-01 04:10:21 +0000",
       "minecraft:spider": "2025-06-04 00:53:43 +0000",
       "minecraft:zombie": "2025-06-01 04:13:00 +0000",
@@ -1534,15 +1537,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-19 23:50:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-19 23:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-19 23:43:48 +0000"
     },
     "done": true
   },
-  "spellbound_weapons:used_shield": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "requirement": "2025-06-19 23:46:38 +0000"
+      "has_logs": "2025-06-19 23:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-19 23:55:50 +0000"
     },
     "done": true
   },
